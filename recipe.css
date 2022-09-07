@@ -37,3 +37,7 @@ a
 {
     float:right;
 }
+body
+{
+    background-image: url("images/silverware.jpg");
+}
