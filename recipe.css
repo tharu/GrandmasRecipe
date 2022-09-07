@@ -1,0 +1,39 @@
+#top
+{
+    text-align: center;
+    color: #B8AA40;
+    background-color: #ededed;
+    text-decoration: underline;
+}
+
+.heading
+{
+    color: #B8AA40;background-color: #ededed;text-decoration: underline;
+}
+
+.comment
+{
+    left:10%;
+    right: 10%;
+    position: relative;
+    background-color: #fffdaf;
+    margin-bottom: 20px;
+}
+
+.links
+{
+    color: #B8AA40;
+    background-color: #ededed;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+a
+{
+    color:#B8AA40;
+}
+
+#divBottom
+{
+    float:right;
+}
